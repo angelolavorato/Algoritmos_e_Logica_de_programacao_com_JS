@@ -2,7 +2,6 @@
 
 O que foi aprendido na aula:
 
--Git initialization
--Git and Commit 
--Show commits log
-
+- Git initialization
+- Git and Commit
+- Show commits log
